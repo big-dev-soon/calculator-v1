@@ -1,5 +1,5 @@
 # Task
-Your task is to build a Calculator Application as presented in designs under the Calculator project section in BigDevSoon. The project itself combines a gentle UX/UI and covers some math operations that you will need to combine in order to create a working Calculator. As an additional feature, you can try implementing a Light/Dark mode toggle. Good luck! 🎉
+Your task is to build a Calculator Application as presented in designs under the Calculator project section in BigDevSoon. The project itself combines a gentle UX/UI and covers some math operations that you will need to implement in order to create a working Calculator. As an additional feature, you can try implementing a Light/Dark mode toggle. Good luck! 🎉
 
 ## Prerequisites
 You can choose any technologies of your own preference, the same applies to any tools, libraries, frameworks and everything related. We want you to have fun building this project and composing a technology stack that plays well with your taste.
